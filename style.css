@@ -37,13 +37,13 @@
 }
 div.lichess_game div.lichess_ground {
     padding-left: 0px !important;
-    margin-left: 5px;
+    margin-left: 2px;
 }
 div.incbar {
     display: flex;
     flex-flow: column nowrap;
     justify-content: center;
-    margin-left: 5px;
+    margin-left: 2px;
     width: 60px;
 }
 div.incbar > div:first-child {
