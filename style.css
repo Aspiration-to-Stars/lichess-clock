@@ -44,7 +44,7 @@ div.incbar {
     flex-flow: column nowrap;
     justify-content: center;
     margin-left: 5px;
-    width: 40px;
+    width: 60px;
 }
 div.incbar > div:first-child {
     display: flex;
