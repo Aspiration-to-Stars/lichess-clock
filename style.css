@@ -43,8 +43,8 @@ div.incbar {
     display: flex;
     flex-flow: column nowrap;
     justify-content: center;
-    margin-left: 15px;
-    width: 20px;
+    margin-left: 5px;
+    width: 40px;
 }
 div.incbar > div:first-child {
     display: flex;
@@ -54,13 +54,13 @@ div.incbar > div {
     height: 100%;
 }
 div.incbar div.myBurner {
-    background-color: #759900;
+    background-color: #00ff00;
 }
 div.incbar div.opBurner {
-    background-color: #8c0000;
+    background-color: #ff0000;
 }
 
 div.incbar .sep {
     height: 3px;
-    background-color: #929292;
+    background-color: #ffffff;
 }
